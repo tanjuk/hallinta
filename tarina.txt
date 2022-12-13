@@ -1,4 +1,4 @@
-Muokataan ensimmäistä lausetta ja tehdään siitä commit
+Muokataan ensimmäistä lausetta ja viimeistä ja tehdään siitä commit
 
     Luo kansio komentorivillä ja tee siitä Git-projekti.
     Luo projektikansioosi tiedosto nimeltä tarina.txt. Lisää sinne jokin pitkä pätkä tekstiä.
