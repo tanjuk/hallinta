@@ -12,3 +12,4 @@ shampoo
 lisätään
 uusia
 tuotteita
+merge-harjoitus
