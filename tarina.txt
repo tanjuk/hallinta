@@ -1,3 +1,4 @@
+
 Muokataan ensimmäisiä lauseita ja tehdään siitä commit
 
     Luo kansio komentorivillä ja tee siitä Git-projekti.
